@@ -1,5 +1,5 @@
 {
-    "name": "whitecube/php-prices",
+    "name": "coins-rus/php-prices",
     "description": "A simple PHP library for complex monetary prices management",
     "type": "library",
     "minimum-stability": "dev",
